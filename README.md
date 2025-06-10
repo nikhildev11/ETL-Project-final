@@ -1,4 +1,4 @@
-# 🌍 Global Air Quality Tracker
+# 🌍 Germany's Air Quality Tracker
 
 This project uses the IQAir API to fetch real-time air quality data from global cities, stores the data in MongoDB, and prepares it for visualization in Power BI or Tableau.
 
@@ -18,25 +18,27 @@ This project uses the IQAir API to fetch real-time air quality data from global 
 
 ## Setup Instructions
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone <repository-url>
    cd ETL-Project-final
 
-2. Install dependencies:
+2. **Install dependencies:**
 pip install -r requirements.txt  
 
-3. Create a .env file with the following variables:  API_KEY=<your_iqair_api_key> 
+3. **Create a .env file with the following variables:**  API_KEY=<your_iqair_api_key> 
 BASE_URL=https://api.airvisual.com MONGO_URI=mongodb://localhost:27017/ MONGO_DB_NAME=air_quality
 
-4. Run the ETL process: Open global_air_quality.ipynb in Jupyter Notebook and execute the cells
+4. **Run the ETL process:** Open global_air_quality.ipynb in Jupyter Notebook and execute the cells
 
 ## Data Flow
 Input: Data is fetched from the IQAir API.
-Processing:
+
+**Processing:**
 Normalize nested fields for weather and pollution data.
 Handle missing or inconsistent data.
-Output:
+
+**Output:**
 Raw data is stored in the germany_city_air_quality collection.
 Cleaned data is stored in the germany_city_air_quality_cleaned collection.
 
