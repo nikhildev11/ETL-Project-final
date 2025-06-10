@@ -1,0 +1,6580 @@
+[{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9d3"
+  },
+  "city": "Aalen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 46,
+  "weather_pr": 1017,
+  "weather_tp": 22,
+  "weather_wd": 273,
+  "weather_ws": 3.97,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9d4"
+  },
+  "city": "Babstadt",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 42,
+  "weather_pr": 1016,
+  "weather_tp": 23,
+  "weather_wd": 251,
+  "weather_ws": 5.94,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 77,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 33,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9d5"
+  },
+  "city": "Baden-Baden",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 46,
+  "weather_pr": 1017,
+  "weather_tp": 23,
+  "weather_wd": 230,
+  "weather_ws": 4.12,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9d6"
+  },
+  "city": "Biberach",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 44,
+  "weather_pr": 1017,
+  "weather_tp": 23,
+  "weather_wd": 230,
+  "weather_ws": 4.12,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 102,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 51,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9d7"
+  },
+  "city": "Dauchingen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1019,
+  "weather_tp": 24,
+  "weather_wd": 293,
+  "weather_ws": 4.23,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 83,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 38,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9d8"
+  },
+  "city": "Eggenstein-Leopoldshafen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 45,
+  "weather_pr": 1016,
+  "weather_tp": 25,
+  "weather_wd": 285,
+  "weather_ws": 1.34,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9d9"
+  },
+  "city": "Eppelheim",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 45,
+  "weather_pr": 1016,
+  "weather_tp": 25,
+  "weather_wd": 210,
+  "weather_ws": 4.12,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9da"
+  },
+  "city": "Filderstadt",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 33,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 260,
+  "weather_ws": 4.63,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 28,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9db"
+  },
+  "city": "Freiburg",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 40,
+  "weather_pr": 1017,
+  "weather_tp": 25,
+  "weather_wd": 175,
+  "weather_ws": 3.13,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9dc"
+  },
+  "city": "Friedrichshafen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 47,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 250,
+  "weather_ws": 2.57,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 77,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 33,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9dd"
+  },
+  "city": "Gartringen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 279,
+  "weather_ws": 4.96,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9de"
+  },
+  "city": "Graben-Neudorf",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 32,
+  "weather_pr": 1016,
+  "weather_tp": 26,
+  "weather_wd": 253,
+  "weather_ws": 5.76,
+  "pollution_ts": "2025-06-10T12:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9df"
+  },
+  "city": "Grenzach-Wyhlen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 41,
+  "weather_pr": 1017,
+  "weather_tp": 25,
+  "weather_wd": 270,
+  "weather_ws": 3.09,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 88,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 41,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9e0"
+  },
+  "city": "Hausen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 36,
+  "weather_pr": 1018,
+  "weather_tp": 25,
+  "weather_wd": 275,
+  "weather_ws": 3.99,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9e1"
+  },
+  "city": "Heidelberg",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 47,
+  "weather_pr": 1016,
+  "weather_tp": 24,
+  "weather_wd": 220,
+  "weather_ws": 5.14,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9e2"
+  },
+  "city": "Heilbronn",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 42,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 256,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9e3"
+  },
+  "city": "Herbolzheim",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 35,
+  "weather_pr": 1017,
+  "weather_tp": 26,
+  "weather_wd": 201,
+  "weather_ws": 3.2,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9e4"
+  },
+  "city": "Holzgerlingen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 33,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 260,
+  "weather_ws": 4.63,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 20,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9e5"
+  },
+  "city": "Karlsruhe",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 52,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 294,
+  "weather_ws": 1.34,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9e6"
+  },
+  "city": "Kehl",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 41,
+  "weather_pr": 1017,
+  "weather_tp": 26,
+  "weather_wd": 220,
+  "weather_ws": 3.6,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 77,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 33,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9e7"
+  },
+  "city": "Konstanz",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 44,
+  "weather_pr": 1017,
+  "weather_tp": 25,
+  "weather_wd": 262,
+  "weather_ws": 4.75,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 79,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9e8"
+  },
+  "city": "Ladenburg",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 45,
+  "weather_pr": 1016,
+  "weather_tp": 25,
+  "weather_wd": 210,
+  "weather_ws": 4.12,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 76,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9e9"
+  },
+  "city": "Ludwigsburg",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 51,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 266,
+  "weather_ws": 0.45,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9ea"
+  },
+  "city": "Mahlberg",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 32,
+  "weather_pr": 1017,
+  "weather_tp": 25,
+  "weather_wd": 210,
+  "weather_ws": 4.12,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9eb"
+  },
+  "city": "Mannheim",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 46,
+  "weather_pr": 1016,
+  "weather_tp": 24,
+  "weather_wd": 220,
+  "weather_ws": 5.14,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9ec"
+  },
+  "city": "Munstertal/Schwarzwald",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 40,
+  "weather_pr": 1018,
+  "weather_tp": 25,
+  "weather_wd": 245,
+  "weather_ws": 2.68,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 107,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 54,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9ed"
+  },
+  "city": "Mutlangen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 56,
+  "weather_pr": 1017,
+  "weather_tp": 22,
+  "weather_wd": 283,
+  "weather_ws": 4.04,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9ee"
+  },
+  "city": "Neuenburg",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 43,
+  "weather_pr": 1018,
+  "weather_tp": 25,
+  "weather_wd": 258,
+  "weather_ws": 2.24,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9ef"
+  },
+  "city": "Oberried",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 38,
+  "weather_pr": 1018,
+  "weather_tp": 20,
+  "weather_wd": 171,
+  "weather_ws": 2.24,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 104,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 52,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9f0"
+  },
+  "city": "Oberrot",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 51,
+  "weather_pr": 1017,
+  "weather_tp": 23,
+  "weather_wd": 280,
+  "weather_ws": 4.12,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9f1"
+  },
+  "city": "Ofterdingen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 32,
+  "weather_pr": 1019,
+  "weather_tp": 25,
+  "weather_wd": 274,
+  "weather_ws": 4.59,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 76,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9f2"
+  },
+  "city": "Orsingen-Nenzingen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1018,
+  "weather_tp": 25,
+  "weather_wd": 259,
+  "weather_ws": 4.61,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 153,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 79,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9f3"
+  },
+  "city": "Pforzheim",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 48,
+  "weather_pr": 1017,
+  "weather_tp": 23,
+  "weather_wd": 270,
+  "weather_ws": 5.07,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9f4"
+  },
+  "city": "Reutlingen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 271,
+  "weather_ws": 4.73,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 85,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 39,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9f5"
+  },
+  "city": "Schwabisch Hall",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 50,
+  "weather_pr": 1017,
+  "weather_tp": 22,
+  "weather_wd": 280,
+  "weather_ws": 4.12,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9f6"
+  },
+  "city": "Schwabische Alb",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 46,
+  "weather_pr": 1018,
+  "weather_tp": 22,
+  "weather_wd": 296,
+  "weather_ws": 5.17,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 96,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 47,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9f7"
+  },
+  "city": "Sindelfingen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 33,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 260,
+  "weather_ws": 4.63,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 94,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 46,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9f8"
+  },
+  "city": "Singen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 40,
+  "weather_pr": 1017,
+  "weather_tp": 25,
+  "weather_wd": 254,
+  "weather_ws": 5.06,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 127,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 64,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9f9"
+  },
+  "city": "Sontheim an der Brenz",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 48,
+  "weather_pr": 1017,
+  "weather_tp": 21,
+  "weather_wd": 300,
+  "weather_ws": 4.16,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 96,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 47,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9fa"
+  },
+  "city": "Stuttgart",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 45,
+  "weather_pr": 1017,
+  "weather_tp": 25,
+  "weather_wd": 230,
+  "weather_ws": 3.09,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 70,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 28,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9fb"
+  },
+  "city": "Tauberbischofsheim",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 50,
+  "weather_pr": 1016,
+  "weather_tp": 23,
+  "weather_wd": 351,
+  "weather_ws": 0.45,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9fc"
+  },
+  "city": "Tubingen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 49,
+  "weather_pr": 1017,
+  "weather_tp": 25,
+  "weather_wd": 270,
+  "weather_ws": 4.57,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 83,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 38,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9fd"
+  },
+  "city": "Uberlingen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 36,
+  "weather_pr": 1017,
+  "weather_tp": 25,
+  "weather_wd": 257,
+  "weather_ws": 4.59,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 85,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 39,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9fe"
+  },
+  "city": "Ulm",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 46,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 291,
+  "weather_ws": 4.15,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 97,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 49,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cf9ff"
+  },
+  "city": "Villingen-Schwenningen",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 46,
+  "weather_pr": 1020,
+  "weather_tp": 23,
+  "weather_wd": 286,
+  "weather_ws": 4.33,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 119,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 60,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa00"
+  },
+  "city": "Wangen im Allgau",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 35,
+  "weather_pr": 1018,
+  "weather_tp": 24,
+  "weather_wd": 264,
+  "weather_ws": 3.94,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 167,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 104,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa01"
+  },
+  "city": "Weil am Rhein",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 38,
+  "weather_pr": 1018,
+  "weather_tp": 25,
+  "weather_wd": 270,
+  "weather_ws": 3.09,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa02"
+  },
+  "city": "Weinheim",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 46,
+  "weather_pr": 1016,
+  "weather_tp": 24,
+  "weather_wd": 294,
+  "weather_ws": 5.36,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa03"
+  },
+  "city": "Wiesloch",
+  "state": "Baden-Wuerttemberg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 50,
+  "weather_pr": 1016,
+  "weather_tp": 24,
+  "weather_wd": 260,
+  "weather_ws": 5.85,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa04"
+  },
+  "city": "Alling",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 35,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 250,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 87,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 41,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa05"
+  },
+  "city": "Ansbach",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "03d",
+  "weather_hu": 46,
+  "weather_pr": 1017,
+  "weather_tp": 21,
+  "weather_wd": 240,
+  "weather_ws": 4.63,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa06"
+  },
+  "city": "Augsburg",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 38,
+  "weather_pr": 1017,
+  "weather_tp": 23,
+  "weather_wd": 240,
+  "weather_ws": 4.63,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 79,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 48,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa07"
+  },
+  "city": "Bad Aibling",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 42,
+  "weather_pr": 1017,
+  "weather_tp": 26,
+  "weather_wd": 324,
+  "weather_ws": 4.07,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 158,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 89,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa08"
+  },
+  "city": "Bad Hindelang",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 38,
+  "weather_pr": 1016,
+  "weather_tp": 24,
+  "weather_wd": 288,
+  "weather_ws": 0.89,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 79,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 40,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa09"
+  },
+  "city": "Bamberg",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 70,
+  "weather_pr": 1015,
+  "weather_tp": 20,
+  "weather_wd": 235,
+  "weather_ws": 5.22,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 56,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 19,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa0a"
+  },
+  "city": "Bayreuth",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 68,
+  "weather_pr": 1015,
+  "weather_tp": 20,
+  "weather_wd": 263,
+  "weather_ws": 0.89,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa0b"
+  },
+  "city": "Bogenhausen",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 37,
+  "weather_pr": 1016,
+  "weather_tp": 25,
+  "weather_wd": 224,
+  "weather_ws": 1.79,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 112,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 56,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa0c"
+  },
+  "city": "Burghausen",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 76,
+  "weather_pr": 1016,
+  "weather_tp": 25,
+  "weather_wd": 307,
+  "weather_ws": 4.17,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 82,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 45,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa0d"
+  },
+  "city": "Dingolfing",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 52,
+  "weather_pr": 1017,
+  "weather_tp": 23,
+  "weather_wd": 272,
+  "weather_ws": 5.03,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 75,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa0e"
+  },
+  "city": "Egmating",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 38,
+  "weather_pr": 1016,
+  "weather_tp": 24,
+  "weather_wd": 281,
+  "weather_ws": 4.02,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 111,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 56,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa0f"
+  },
+  "city": "Emmering",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 36,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 250,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 107,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 54,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa10"
+  },
+  "city": "Furth",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 51,
+  "weather_pr": 1016,
+  "weather_tp": 21,
+  "weather_wd": 270,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 58,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 19,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa11"
+  },
+  "city": "Grunwald",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 35,
+  "weather_pr": 1017,
+  "weather_tp": 25,
+  "weather_wd": 239,
+  "weather_ws": 1.34,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 183,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 133,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa12"
+  },
+  "city": "Heroldsbach",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 53,
+  "weather_pr": 1016,
+  "weather_tp": 21,
+  "weather_wd": 254,
+  "weather_ws": 5.08,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa13"
+  },
+  "city": "Hof",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "02d",
+  "weather_hu": 61,
+  "weather_pr": 1015,
+  "weather_tp": 16,
+  "weather_wd": 220,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 63,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa14"
+  },
+  "city": "Hohenkirchen-Siegertsbrunn",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 37,
+  "weather_pr": 1017,
+  "weather_tp": 25,
+  "weather_wd": 233,
+  "weather_ws": 4.47,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 161,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 94,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa15"
+  },
+  "city": "Holzkirchen",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 35,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 306,
+  "weather_ws": 5.25,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 129,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 65,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa16"
+  },
+  "city": "Ingolstadt",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 43,
+  "weather_pr": 1016,
+  "weather_tp": 23,
+  "weather_wd": 250,
+  "weather_ws": 3.6,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 38,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa17"
+  },
+  "city": "Ismaning",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 38,
+  "weather_pr": 1016,
+  "weather_tp": 25,
+  "weather_wd": 230,
+  "weather_ws": 4.02,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 146,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 74,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa18"
+  },
+  "city": "Kochel",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 46,
+  "weather_pr": 1017,
+  "weather_tp": 26,
+  "weather_wd": 319,
+  "weather_ws": 3.74,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa19"
+  },
+  "city": "Kulmbach",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 74,
+  "weather_pr": 1015,
+  "weather_tp": 19,
+  "weather_wd": 268,
+  "weather_ws": 0.89,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 22,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa1a"
+  },
+  "city": "Landshut",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 45,
+  "weather_pr": 1016,
+  "weather_tp": 24,
+  "weather_wd": 293,
+  "weather_ws": 1.79,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 33,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa1b"
+  },
+  "city": "Mainleus",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 62,
+  "weather_pr": 1015,
+  "weather_tp": 19,
+  "weather_wd": 236,
+  "weather_ws": 5.5,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa1c"
+  },
+  "city": "Memmingen",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 38,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 240,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 116,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 58,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa1d"
+  },
+  "city": "Mittelstetten",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 39,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 240,
+  "weather_ws": 4.12,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 89,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 42,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa1e"
+  },
+  "city": "Munich",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 37,
+  "weather_pr": 1016,
+  "weather_tp": 25,
+  "weather_wd": 224,
+  "weather_ws": 1.79,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 151,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 76,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa1f"
+  },
+  "city": "Nennslingen",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 41,
+  "weather_pr": 1017,
+  "weather_tp": 22,
+  "weather_wd": 274,
+  "weather_ws": 4.51,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 86,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 40,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa20"
+  },
+  "city": "Neu-Ulm",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 46,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 290,
+  "weather_ws": 4.05,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 78,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa21"
+  },
+  "city": "Neuburg an der Donau",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 49,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 272,
+  "weather_ws": 4.87,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 97,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 49,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa22"
+  },
+  "city": "Niederwerrn",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 57,
+  "weather_pr": 1015,
+  "weather_tp": 20,
+  "weather_wd": 251,
+  "weather_ws": 6.28,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 53,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 33,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa23"
+  },
+  "city": "Nuremberg",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 50,
+  "weather_pr": 1016,
+  "weather_tp": 22,
+  "weather_wd": 270,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa24"
+  },
+  "city": "Oberasbach",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 52,
+  "weather_pr": 1016,
+  "weather_tp": 21,
+  "weather_wd": 250,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 67,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa25"
+  },
+  "city": "Oberaudorf",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 6,
+  "weather_ws": 1.66,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 81,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 46,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa26"
+  },
+  "city": "Ottobrunn",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 37,
+  "weather_pr": 1016,
+  "weather_tp": 25,
+  "weather_wd": 233,
+  "weather_ws": 4.47,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 63,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa27"
+  },
+  "city": "Pasing",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 35,
+  "weather_pr": 1017,
+  "weather_tp": 25,
+  "weather_wd": 250,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 97,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 48,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa28"
+  },
+  "city": "Passau",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 65,
+  "weather_pr": 1016,
+  "weather_tp": 23,
+  "weather_wd": 222,
+  "weather_ws": 0.45,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 82,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 49,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa29"
+  },
+  "city": "Peissenberg",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 31,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 300,
+  "weather_ws": 7.72,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 171,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 111,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa2a"
+  },
+  "city": "Rosstal",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 53,
+  "weather_pr": 1016,
+  "weather_tp": 21,
+  "weather_wd": 250,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 99,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 50,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa2b"
+  },
+  "city": "Rottach-Egern",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 41,
+  "weather_pr": 1017,
+  "weather_tp": 21,
+  "weather_wd": 310,
+  "weather_ws": 3.33,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 121,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 61,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa2c"
+  },
+  "city": "Schonstett",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 44,
+  "weather_pr": 1017,
+  "weather_tp": 26,
+  "weather_wd": 328,
+  "weather_ws": 4.19,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 132,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 66,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa2d"
+  },
+  "city": "Schwabach",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 49,
+  "weather_pr": 1016,
+  "weather_tp": 21,
+  "weather_wd": 250,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa2e"
+  },
+  "city": "Schwangau",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 36,
+  "weather_pr": 1017,
+  "weather_tp": 23,
+  "weather_wd": 324,
+  "weather_ws": 3.76,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 153,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 79,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa2f"
+  },
+  "city": "Schweinfurt",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 58,
+  "weather_pr": 1015,
+  "weather_tp": 19,
+  "weather_wd": 245,
+  "weather_ws": 5.95,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 50,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 15,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa30"
+  },
+  "city": "Senden",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 282,
+  "weather_ws": 3.58,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 151,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 76,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa31"
+  },
+  "city": "Stadtbergen",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 42,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 275,
+  "weather_ws": 4.41,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 87,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 40,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa32"
+  },
+  "city": "Steingaden",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 31,
+  "weather_pr": 1017,
+  "weather_tp": 23,
+  "weather_wd": 300,
+  "weather_ws": 7.72,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 157,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 86,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa33"
+  },
+  "city": "Sulzbach-Rosenberg",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 58,
+  "weather_pr": 1016,
+  "weather_tp": 21,
+  "weather_wd": 277,
+  "weather_ws": 4.74,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 58,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 37,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa34"
+  },
+  "city": "Tiefenbach",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 49,
+  "weather_pr": 1016,
+  "weather_tp": 21,
+  "weather_wd": 266,
+  "weather_ws": 5.01,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa35"
+  },
+  "city": "Trostberg",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 38,
+  "weather_pr": 1017,
+  "weather_tp": 26,
+  "weather_wd": 212,
+  "weather_ws": 1.34,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 86,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 48,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa36"
+  },
+  "city": "Wartenberg",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 44,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 260,
+  "weather_ws": 4.63,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 163,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 96,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa37"
+  },
+  "city": "Weissenburg in Bayern",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 48,
+  "weather_pr": 1017,
+  "weather_tp": 23,
+  "weather_wd": 277,
+  "weather_ws": 4.1,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 84,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 39,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa38"
+  },
+  "city": "Wenzenbach",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 50,
+  "weather_pr": 1016,
+  "weather_tp": 23,
+  "weather_wd": 287,
+  "weather_ws": 1.79,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 84,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 39,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa39"
+  },
+  "city": "Wurzburg",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 57,
+  "weather_pr": 1016,
+  "weather_tp": 22,
+  "weather_wd": 243,
+  "weather_ws": 5.87,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa3a"
+  },
+  "city": "Zell am Main",
+  "state": "Bavaria",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 51,
+  "weather_pr": 1015,
+  "weather_tp": 23,
+  "weather_wd": 251,
+  "weather_ws": 5.95,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 82,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 37,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa3b"
+  },
+  "city": "Berlin",
+  "state": "Berlin",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 81,
+  "weather_pr": 1012,
+  "weather_tp": 16,
+  "weather_wd": 170,
+  "weather_ws": 0.45,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa3c"
+  },
+  "city": "Mitte",
+  "state": "Berlin",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "09d",
+  "weather_hu": 77,
+  "weather_pr": 1012,
+  "weather_tp": 17,
+  "weather_wd": 257,
+  "weather_ws": 7.15,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 43,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa3d"
+  },
+  "city": "Neukoelln",
+  "state": "Berlin",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "09d",
+  "weather_hu": 77,
+  "weather_pr": 1012,
+  "weather_tp": 17,
+  "weather_wd": 257,
+  "weather_ws": 7.15,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa3e"
+  },
+  "city": "Alt Zauche-Wusswerk",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 64,
+  "weather_pr": 1013,
+  "weather_tp": 20,
+  "weather_wd": 233,
+  "weather_ws": 6.43,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa3f"
+  },
+  "city": "Bad Belzig",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 79,
+  "weather_pr": 1013,
+  "weather_tp": 17,
+  "weather_wd": 267,
+  "weather_ws": 4.05,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa40"
+  },
+  "city": "Bernau bei Berlin",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 82,
+  "weather_pr": 1012,
+  "weather_tp": 17,
+  "weather_wd": 197,
+  "weather_ws": 3.6,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa41"
+  },
+  "city": "Birkenwerder",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 78,
+  "weather_pr": 1012,
+  "weather_tp": 16,
+  "weather_wd": 38,
+  "weather_ws": 1.34,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa42"
+  },
+  "city": "Blankenfelde-Mahlow",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "09d",
+  "weather_hu": 85,
+  "weather_pr": 1012,
+  "weather_tp": 16,
+  "weather_wd": 240,
+  "weather_ws": 6.69,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa43"
+  },
+  "city": "Brandenburg City",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 80,
+  "weather_pr": 1013,
+  "weather_tp": 15,
+  "weather_wd": 255,
+  "weather_ws": 5.25,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 67,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa44"
+  },
+  "city": "Buckow",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 78,
+  "weather_pr": 1012,
+  "weather_tp": 17,
+  "weather_wd": 199,
+  "weather_ws": 2.19,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa45"
+  },
+  "city": "Cottbus",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 56,
+  "weather_pr": 1012,
+  "weather_tp": 20,
+  "weather_wd": 252,
+  "weather_ws": 3.58,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 61,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa46"
+  },
+  "city": "Dallgow-Doeberitz",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 88,
+  "weather_pr": 1012,
+  "weather_tp": 16,
+  "weather_wd": 231,
+  "weather_ws": 5.69,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 78,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa47"
+  },
+  "city": "Eisenhuttenstadt",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 65,
+  "weather_pr": 1012,
+  "weather_tp": 19,
+  "weather_wd": 238,
+  "weather_ws": 3.92,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa48"
+  },
+  "city": "Elsterwerda",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 60,
+  "weather_pr": 1013,
+  "weather_tp": 20,
+  "weather_wd": 229,
+  "weather_ws": 5.2,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa49"
+  },
+  "city": "Frankfurt/Oder",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 70,
+  "weather_pr": 1012,
+  "weather_tp": 18,
+  "weather_wd": 250,
+  "weather_ws": 2.37,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 63,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa4a"
+  },
+  "city": "Luckenwalde",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 76,
+  "weather_pr": 1011,
+  "weather_tp": 16,
+  "weather_wd": 198,
+  "weather_ws": 2.24,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 82,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 36,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa4b"
+  },
+  "city": "Michendorf",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 85,
+  "weather_pr": 1013,
+  "weather_tp": 16,
+  "weather_wd": 249,
+  "weather_ws": 5.65,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa4c"
+  },
+  "city": "Nauen",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 81,
+  "weather_pr": 1012,
+  "weather_tp": 16,
+  "weather_wd": 233,
+  "weather_ws": 6.11,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa4d"
+  },
+  "city": "Neuruppin",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 82,
+  "weather_pr": 1012,
+  "weather_tp": 16,
+  "weather_wd": 217,
+  "weather_ws": 3.07,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa4e"
+  },
+  "city": "Oranienburg",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 80,
+  "weather_pr": 1012,
+  "weather_tp": 16,
+  "weather_wd": 38,
+  "weather_ws": 1.34,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa4f"
+  },
+  "city": "Potsdam",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 87,
+  "weather_pr": 1013,
+  "weather_tp": 16,
+  "weather_wd": 205,
+  "weather_ws": 1.79,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa50"
+  },
+  "city": "Schonefeld",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "09d",
+  "weather_hu": 82,
+  "weather_pr": 1012,
+  "weather_tp": 16,
+  "weather_wd": 240,
+  "weather_ws": 6.69,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa51"
+  },
+  "city": "Schwedt/Oder",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 81,
+  "weather_pr": 1012,
+  "weather_tp": 17,
+  "weather_wd": 237,
+  "weather_ws": 2.96,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 28,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa52"
+  },
+  "city": "Spremberg",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 55,
+  "weather_pr": 1013,
+  "weather_tp": 21,
+  "weather_wd": 237,
+  "weather_ws": 4.82,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 58,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa53"
+  },
+  "city": "Stechlin",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 82,
+  "weather_pr": 1012,
+  "weather_tp": 16,
+  "weather_wd": 219,
+  "weather_ws": 2.94,
+  "pollution_ts": "2025-06-10T12:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 22,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa54"
+  },
+  "city": "Wildau",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "09d",
+  "weather_hu": 82,
+  "weather_pr": 1012,
+  "weather_tp": 16,
+  "weather_wd": 240,
+  "weather_ws": 6.69,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 28,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa55"
+  },
+  "city": "Wittenberge",
+  "state": "Brandenburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 79,
+  "weather_pr": 1011,
+  "weather_tp": 16,
+  "weather_wd": 243,
+  "weather_ws": 5.15,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa56"
+  },
+  "city": "Bremen",
+  "state": "Bremen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 90,
+  "weather_pr": 1010,
+  "weather_tp": 14,
+  "weather_wd": 230,
+  "weather_ws": 7.72,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa57"
+  },
+  "city": "Bremerhaven",
+  "state": "Bremen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 94,
+  "weather_pr": 1009,
+  "weather_tp": 13,
+  "weather_wd": 253,
+  "weather_ws": 8.61,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 56,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa58"
+  },
+  "city": "Fuhlsbuettel",
+  "state": "Hamburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "50d",
+  "weather_hu": 94,
+  "weather_pr": 1009,
+  "weather_tp": 13,
+  "weather_wd": 210,
+  "weather_ws": 7.2,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 81,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 36,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa59"
+  },
+  "city": "Hamburg",
+  "state": "Hamburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "50d",
+  "weather_hu": 94,
+  "weather_pr": 1009,
+  "weather_tp": 13,
+  "weather_wd": 210,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa5a"
+  },
+  "city": "Harburg",
+  "state": "Hamburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "50d",
+  "weather_hu": 94,
+  "weather_pr": 1009,
+  "weather_tp": 13,
+  "weather_wd": 210,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 59,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 19,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa5b"
+  },
+  "city": "Marienthal",
+  "state": "Hamburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "09d",
+  "weather_hu": 94,
+  "weather_pr": 1009,
+  "weather_tp": 13,
+  "weather_wd": 210,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 55,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 16,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa5c"
+  },
+  "city": "Ohlsdorf",
+  "state": "Hamburg",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "09d",
+  "weather_hu": 94,
+  "weather_pr": 1009,
+  "weather_tp": 13,
+  "weather_wd": 210,
+  "weather_ws": 7.2,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 80,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa5d"
+  },
+  "city": "Alsfeld",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 63,
+  "weather_pr": 1014,
+  "weather_tp": 20,
+  "weather_wd": 258,
+  "weather_ws": 6.13,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 83,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 38,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa5e"
+  },
+  "city": "Bad Nauheim",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 57,
+  "weather_pr": 1015,
+  "weather_tp": 22,
+  "weather_wd": 166,
+  "weather_ws": 0.45,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 79,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa5f"
+  },
+  "city": "Bebra",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 58,
+  "weather_pr": 1014,
+  "weather_tp": 21,
+  "weather_wd": 225,
+  "weather_ws": 4.02,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 74,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa60"
+  },
+  "city": "Bensheim",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 50,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 254,
+  "weather_ws": 5.84,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa61"
+  },
+  "city": "Butzbach",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 58,
+  "weather_pr": 1014,
+  "weather_tp": 22,
+  "weather_wd": 261,
+  "weather_ws": 5.55,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 79,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa62"
+  },
+  "city": "Darmstadt",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 49,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 350,
+  "weather_ws": 1.79,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa63"
+  },
+  "city": "Eltville",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "02d",
+  "weather_hu": 41,
+  "weather_pr": 1015,
+  "weather_tp": 25,
+  "weather_wd": 250,
+  "weather_ws": 6.69,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa64"
+  },
+  "city": "Frankfurt am Main",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 51,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 341,
+  "weather_ws": 2.24,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 67,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa65"
+  },
+  "city": "Fulda",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 55,
+  "weather_pr": 1014,
+  "weather_tp": 20,
+  "weather_wd": 230,
+  "weather_ws": 3.13,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 75,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 33,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa66"
+  },
+  "city": "Furth",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 50,
+  "weather_pr": 1016,
+  "weather_tp": 21,
+  "weather_wd": 258,
+  "weather_ws": 6.32,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 36,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa67"
+  },
+  "city": "Gersfeld",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 57,
+  "weather_pr": 1015,
+  "weather_tp": 20,
+  "weather_wd": 252,
+  "weather_ws": 7.1,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 74,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 39,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa68"
+  },
+  "city": "Giessen",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 56,
+  "weather_pr": 1014,
+  "weather_tp": 21,
+  "weather_wd": 249,
+  "weather_ws": 4.92,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa69"
+  },
+  "city": "Glashutten",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1015,
+  "weather_tp": 20,
+  "weather_wd": 258,
+  "weather_ws": 6.06,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa6a"
+  },
+  "city": "Hanau",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 54,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 234,
+  "weather_ws": 3.58,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 33,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa6b"
+  },
+  "city": "Heppenheim (Bergstrasse)",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 50,
+  "weather_pr": 1016,
+  "weather_tp": 24,
+  "weather_wd": 294,
+  "weather_ws": 5.36,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa6c"
+  },
+  "city": "Kassel",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 52,
+  "weather_pr": 1015,
+  "weather_tp": 23,
+  "weather_wd": 250,
+  "weather_ws": 6.43,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 83,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 38,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa6d"
+  },
+  "city": "Kellerwald",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 56,
+  "weather_pr": 1014,
+  "weather_tp": 17,
+  "weather_wd": 240,
+  "weather_ws": 7.72,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 79,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa6e"
+  },
+  "city": "Langen",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 49,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 4,
+  "weather_ws": 2.68,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa6f"
+  },
+  "city": "Langgons",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 57,
+  "weather_pr": 1014,
+  "weather_tp": 21,
+  "weather_wd": 249,
+  "weather_ws": 4.92,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 75,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa70"
+  },
+  "city": "Limburg an der Lahn",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 54,
+  "weather_pr": 1015,
+  "weather_tp": 23,
+  "weather_wd": 266,
+  "weather_ws": 5.27,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 72,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa71"
+  },
+  "city": "Marburg",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 50,
+  "weather_pr": 1013,
+  "weather_tp": 22,
+  "weather_wd": 261,
+  "weather_ws": 6.24,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa72"
+  },
+  "city": "Marburg an der Lahn",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 50,
+  "weather_pr": 1013,
+  "weather_tp": 22,
+  "weather_wd": 261,
+  "weather_ws": 6.24,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa73"
+  },
+  "city": "Michelstadt",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 262,
+  "weather_ws": 6.18,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa74"
+  },
+  "city": "Neu Isenburg",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 50,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 284,
+  "weather_ws": 1.34,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa75"
+  },
+  "city": "Niedernhausen",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "02d",
+  "weather_hu": 42,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 250,
+  "weather_ws": 6.69,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 63,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 22,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa76"
+  },
+  "city": "Niederrad",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 47,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 230,
+  "weather_ws": 8.23,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa77"
+  },
+  "city": "Oberursel",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 50,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 59,
+  "weather_ws": 1.79,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa78"
+  },
+  "city": "Offenbach",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 51,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 230,
+  "weather_ws": 7.2,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa79"
+  },
+  "city": "Offenbach am Main",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 53,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 230,
+  "weather_ws": 8.23,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa7a"
+  },
+  "city": "Raunheim",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 42,
+  "weather_pr": 1015,
+  "weather_tp": 25,
+  "weather_wd": 230,
+  "weather_ws": 8.23,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa7b"
+  },
+  "city": "Riedstadt",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 49,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 253,
+  "weather_ws": 5.84,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 38,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa7c"
+  },
+  "city": "Wetzlar",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 59,
+  "weather_pr": 1014,
+  "weather_tp": 21,
+  "weather_wd": 267,
+  "weather_ws": 4.62,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 76,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa7d"
+  },
+  "city": "Wiesbaden",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "02d",
+  "weather_hu": 42,
+  "weather_pr": 1015,
+  "weather_tp": 24,
+  "weather_wd": 250,
+  "weather_ws": 6.69,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 37,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa7e"
+  },
+  "city": "Witzenhausen",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 64,
+  "weather_pr": 1013,
+  "weather_tp": 16,
+  "weather_wd": 271,
+  "weather_ws": 5.64,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa7f"
+  },
+  "city": "Zierenberg",
+  "state": "Hessen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 59,
+  "weather_pr": 1013,
+  "weather_tp": 17,
+  "weather_wd": 230,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa80"
+  },
+  "city": "Allertal",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 80,
+  "weather_pr": 1011,
+  "weather_tp": 16,
+  "weather_wd": 254,
+  "weather_ws": 7.37,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 58,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa81"
+  },
+  "city": "Bosel",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 83,
+  "weather_pr": 1011,
+  "weather_tp": 16,
+  "weather_wd": 244,
+  "weather_ws": 6.29,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 22,
+  "pollution_mainus": "o3",
+  "pollution_aqicn": 17,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa82"
+  },
+  "city": "Braunschweig",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 82,
+  "weather_pr": 1012,
+  "weather_tp": 14,
+  "weather_wd": 240,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa83"
+  },
+  "city": "Buchholz in der Nordheide",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 93,
+  "weather_pr": 1010,
+  "weather_tp": 13,
+  "weather_wd": 238,
+  "weather_ws": 6.57,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa84"
+  },
+  "city": "Cuxhaven",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 100,
+  "weather_pr": 1008,
+  "weather_tp": 14,
+  "weather_wd": 230,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 24,
+  "pollution_mainus": "o3",
+  "pollution_aqicn": 18,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa85"
+  },
+  "city": "Duderstadt",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 81,
+  "weather_pr": 1013,
+  "weather_tp": 16,
+  "weather_wd": 305,
+  "weather_ws": 3.81,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa86"
+  },
+  "city": "Emden",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 90,
+  "weather_pr": 1010,
+  "weather_tp": 16,
+  "weather_wd": 275,
+  "weather_ws": 9.45,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 22,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 17,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa87"
+  },
+  "city": "Emsland",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 89,
+  "weather_pr": 1012,
+  "weather_tp": 16,
+  "weather_wd": 260,
+  "weather_ws": 6.71,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 22,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 16,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa88"
+  },
+  "city": "Gottingen",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 85,
+  "weather_pr": 1013,
+  "weather_tp": 15,
+  "weather_wd": 289,
+  "weather_ws": 6.76,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa89"
+  },
+  "city": "Hannover",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "09d",
+  "weather_hu": 87,
+  "weather_pr": 1012,
+  "weather_tp": 16,
+  "weather_wd": 260,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 70,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa8a"
+  },
+  "city": "Hildesheim",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 92,
+  "weather_pr": 1013,
+  "weather_tp": 14,
+  "weather_wd": 281,
+  "weather_ws": 0.45,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa8b"
+  },
+  "city": "Jork",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "50d",
+  "weather_hu": 94,
+  "weather_pr": 1010,
+  "weather_tp": 13,
+  "weather_wd": 220,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa8c"
+  },
+  "city": "Luchow",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 84,
+  "weather_pr": 1011,
+  "weather_tp": 16,
+  "weather_wd": 244,
+  "weather_ws": 6.21,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa8d"
+  },
+  "city": "Luder",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 84,
+  "weather_pr": 1011,
+  "weather_tp": 16,
+  "weather_wd": 243,
+  "weather_ws": 7.53,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 77,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 33,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa8e"
+  },
+  "city": "Lunenburg",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 92,
+  "weather_pr": 1009,
+  "weather_tp": 14,
+  "weather_wd": 250,
+  "weather_ws": 5.9,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa8f"
+  },
+  "city": "Midlum",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "09d",
+  "weather_hu": 100,
+  "weather_pr": 1009,
+  "weather_tp": 14,
+  "weather_wd": 230,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa90"
+  },
+  "city": "Neu Wulmstorf",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 96,
+  "weather_pr": 1009,
+  "weather_tp": 14,
+  "weather_wd": 220,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 83,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 37,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa91"
+  },
+  "city": "Nordholz",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 100,
+  "weather_pr": 1008,
+  "weather_tp": 14,
+  "weather_wd": 230,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 78,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa92"
+  },
+  "city": "Northeim",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 89,
+  "weather_pr": 1014,
+  "weather_tp": 16,
+  "weather_wd": 267,
+  "weather_ws": 0.89,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 63,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 22,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa93"
+  },
+  "city": "Oldenburg",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 94,
+  "weather_pr": 1010,
+  "weather_tp": 16,
+  "weather_wd": 262,
+  "weather_ws": 4.02,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa94"
+  },
+  "city": "Osnabrueck",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 92,
+  "weather_pr": 1013,
+  "weather_tp": 14,
+  "weather_wd": 254,
+  "weather_ws": 6.77,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 55,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 22,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa95"
+  },
+  "city": "Rinteln",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 85,
+  "weather_pr": 1012,
+  "weather_tp": 15,
+  "weather_wd": 260,
+  "weather_ws": 6.69,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 58,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa96"
+  },
+  "city": "Salzgitter",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 82,
+  "weather_pr": 1012,
+  "weather_tp": 14,
+  "weather_wd": 240,
+  "weather_ws": 5.14,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 58,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa97"
+  },
+  "city": "Seevetal",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 93,
+  "weather_pr": 1009,
+  "weather_tp": 14,
+  "weather_wd": 230,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 75,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa98"
+  },
+  "city": "Sittensen",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 92,
+  "weather_pr": 1010,
+  "weather_tp": 13,
+  "weather_wd": 241,
+  "weather_ws": 8.04,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 59,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 19,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa99"
+  },
+  "city": "Solling",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "09d",
+  "weather_hu": 89,
+  "weather_pr": 1012,
+  "weather_tp": 15,
+  "weather_wd": 250,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 56,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 22,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa9a"
+  },
+  "city": "Wilhelmshaven",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 89,
+  "weather_pr": 1009,
+  "weather_tp": 17,
+  "weather_wd": 277,
+  "weather_ws": 9.65,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 22,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 17,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa9b"
+  },
+  "city": "Wolfsburg",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 86,
+  "weather_pr": 1011,
+  "weather_tp": 15,
+  "weather_wd": 240,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 28,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa9c"
+  },
+  "city": "Burg Stargard",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 83,
+  "weather_pr": 1011,
+  "weather_tp": 15,
+  "weather_wd": 218,
+  "weather_ws": 6.26,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa9d"
+  },
+  "city": "Garz/Rugen",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 91,
+  "weather_pr": 1009,
+  "weather_tp": 16,
+  "weather_wd": 220,
+  "weather_ws": 4.97,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa9e"
+  },
+  "city": "Gohlen",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 86,
+  "weather_pr": 1010,
+  "weather_tp": 15,
+  "weather_wd": 236,
+  "weather_ws": 5.77,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfa9f"
+  },
+  "city": "Goldberg",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 87,
+  "weather_pr": 1010,
+  "weather_tp": 15,
+  "weather_wd": 235,
+  "weather_ws": 5.84,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 77,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 33,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaa0"
+  },
+  "city": "Gustrow",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 82,
+  "weather_pr": 1009,
+  "weather_tp": 15,
+  "weather_wd": 240,
+  "weather_ws": 4.63,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaa1"
+  },
+  "city": "Leizen",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T14:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 84,
+  "weather_pr": 1011,
+  "weather_tp": 15,
+  "weather_wd": 238,
+  "weather_ws": 5.92,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaa2"
+  },
+  "city": "Locknitz",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 94,
+  "weather_pr": 1011,
+  "weather_tp": 14,
+  "weather_wd": 212,
+  "weather_ws": 4.66,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaa3"
+  },
+  "city": "Neubrandenburg",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 85,
+  "weather_pr": 1010,
+  "weather_tp": 15,
+  "weather_wd": 237,
+  "weather_ws": 5.95,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 76,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaa4"
+  },
+  "city": "Rostock",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 85,
+  "weather_pr": 1008,
+  "weather_tp": 15,
+  "weather_wd": 230,
+  "weather_ws": 7.41,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 74,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaa5"
+  },
+  "city": "Schwerin",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 95,
+  "weather_pr": 1009,
+  "weather_tp": 13,
+  "weather_wd": 0,
+  "weather_ws": 3.58,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 79,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaa6"
+  },
+  "city": "Stralsund",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 92,
+  "weather_pr": 1009,
+  "weather_tp": 15,
+  "weather_wd": 224,
+  "weather_ws": 4.76,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaa7"
+  },
+  "city": "Wismar",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 92,
+  "weather_pr": 1008,
+  "weather_tp": 14,
+  "weather_wd": 233,
+  "weather_ws": 7.02,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 102,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 51,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaa8"
+  },
+  "city": "Zingst",
+  "state": "Mecklenburg-Vorpommern",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 84,
+  "weather_pr": 1009,
+  "weather_tp": 14,
+  "weather_wd": 229,
+  "weather_ws": 8.47,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaa9"
+  },
+  "city": "Aachen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 70,
+  "weather_pr": 1016,
+  "weather_tp": 18,
+  "weather_wd": 265,
+  "weather_ws": 6.67,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaaa"
+  },
+  "city": "Bayenthal",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 65,
+  "weather_pr": 1015,
+  "weather_tp": 20,
+  "weather_wd": 280,
+  "weather_ws": 8.75,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaab"
+  },
+  "city": "Bielefeld",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 93,
+  "weather_pr": 1013,
+  "weather_tp": 14,
+  "weather_wd": 220,
+  "weather_ws": 0.89,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaac"
+  },
+  "city": "Bonn",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 56,
+  "weather_pr": 1015,
+  "weather_tp": 20,
+  "weather_wd": 280,
+  "weather_ws": 8.75,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 81,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 36,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaad"
+  },
+  "city": "Borken",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 85,
+  "weather_pr": 1014,
+  "weather_tp": 16,
+  "weather_wd": 266,
+  "weather_ws": 7.47,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaae"
+  },
+  "city": "Bornheim",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 64,
+  "weather_pr": 1015,
+  "weather_tp": 20,
+  "weather_wd": 290,
+  "weather_ws": 7.72,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 74,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaaf"
+  },
+  "city": "Bottrop",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 82,
+  "weather_pr": 1015,
+  "weather_tp": 16,
+  "weather_wd": 254,
+  "weather_ws": 4.8,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfab0"
+  },
+  "city": "Buende",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 87,
+  "weather_pr": 1013,
+  "weather_tp": 15,
+  "weather_wd": 234,
+  "weather_ws": 6.71,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 90,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 43,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfab1"
+  },
+  "city": "Bueren",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 87,
+  "weather_pr": 1014,
+  "weather_tp": 14,
+  "weather_wd": 270,
+  "weather_ws": 3.09,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 74,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfab2"
+  },
+  "city": "Datteln",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 81,
+  "weather_pr": 1015,
+  "weather_tp": 15,
+  "weather_wd": 351,
+  "weather_ws": 1.34,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfab3"
+  },
+  "city": "Dortmund",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 77,
+  "weather_pr": 1015,
+  "weather_tp": 16,
+  "weather_wd": 230,
+  "weather_ws": 5.14,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfab4"
+  },
+  "city": "Drolshagen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 75,
+  "weather_pr": 1015,
+  "weather_tp": 17,
+  "weather_wd": 278,
+  "weather_ws": 0.89,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfab5"
+  },
+  "city": "Duesseldorf-Pempelfort",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 70,
+  "weather_pr": 1015,
+  "weather_tp": 17,
+  "weather_wd": 270,
+  "weather_ws": 7.2,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfab6"
+  },
+  "city": "Duisburg",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 73,
+  "weather_pr": 1015,
+  "weather_tp": 17,
+  "weather_wd": 270,
+  "weather_ws": 7.2,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfab7"
+  },
+  "city": "Dusseldorf",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 71,
+  "weather_pr": 1015,
+  "weather_tp": 17,
+  "weather_wd": 270,
+  "weather_ws": 7.2,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfab8"
+  },
+  "city": "Essen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 81,
+  "weather_pr": 1015,
+  "weather_tp": 16,
+  "weather_wd": 292,
+  "weather_ws": 2.24,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfab9"
+  },
+  "city": "Frechen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 65,
+  "weather_pr": 1016,
+  "weather_tp": 20,
+  "weather_wd": 270,
+  "weather_ws": 8.23,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 59,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 19,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaba"
+  },
+  "city": "Gelsenkirchen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 83,
+  "weather_pr": 1015,
+  "weather_tp": 16,
+  "weather_wd": 292,
+  "weather_ws": 2.24,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfabb"
+  },
+  "city": "Hagen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 83,
+  "weather_pr": 1015,
+  "weather_tp": 16,
+  "weather_wd": 225,
+  "weather_ws": 1.34,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfabc"
+  },
+  "city": "Hattingen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 81,
+  "weather_pr": 1015,
+  "weather_tp": 16,
+  "weather_wd": 292,
+  "weather_ws": 2.24,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfabd"
+  },
+  "city": "Hennef",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 56,
+  "weather_pr": 1015,
+  "weather_tp": 20,
+  "weather_wd": 280,
+  "weather_ws": 8.75,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 74,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfabe"
+  },
+  "city": "Herford",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 90,
+  "weather_pr": 1013,
+  "weather_tp": 14,
+  "weather_wd": 254,
+  "weather_ws": 7.09,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 45,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 12,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfabf"
+  },
+  "city": "Holzwickede",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 79,
+  "weather_pr": 1015,
+  "weather_tp": 16,
+  "weather_wd": 250,
+  "weather_ws": 4.63,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 70,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 28,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfac0"
+  },
+  "city": "Hurth",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 65,
+  "weather_pr": 1015,
+  "weather_tp": 20,
+  "weather_wd": 270,
+  "weather_ws": 8.23,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfac1"
+  },
+  "city": "Kempen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 75,
+  "weather_pr": 1015,
+  "weather_tp": 17,
+  "weather_wd": 270,
+  "weather_ws": 4.12,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfac2"
+  },
+  "city": "Koln",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 66,
+  "weather_pr": 1016,
+  "weather_tp": 20,
+  "weather_wd": 280,
+  "weather_ws": 8.75,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 67,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfac3"
+  },
+  "city": "Krefeld",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 71,
+  "weather_pr": 1016,
+  "weather_tp": 18,
+  "weather_wd": 270,
+  "weather_ws": 7.2,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 70,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 28,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfac4"
+  },
+  "city": "Leverkusen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 68,
+  "weather_pr": 1015,
+  "weather_tp": 20,
+  "weather_wd": 286,
+  "weather_ws": 4.66,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfac5"
+  },
+  "city": "Luedenscheid",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 90,
+  "weather_pr": 1015,
+  "weather_tp": 14,
+  "weather_wd": 360,
+  "weather_ws": 0.45,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfac6"
+  },
+  "city": "Lunen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 78,
+  "weather_pr": 1015,
+  "weather_tp": 16,
+  "weather_wd": 250,
+  "weather_ws": 4.63,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 58,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 20,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfac7"
+  },
+  "city": "Meerbusch",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 71,
+  "weather_pr": 1016,
+  "weather_tp": 18,
+  "weather_wd": 270,
+  "weather_ws": 7.2,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfac8"
+  },
+  "city": "Mettingen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 87,
+  "weather_pr": 1013,
+  "weather_tp": 14,
+  "weather_wd": 258,
+  "weather_ws": 7.68,
+  "pollution_ts": "2025-06-10T13:00:00.000Z",
+  "pollution_aqius": 58,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 18,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfac9"
+  },
+  "city": "Monchengladbach",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 74,
+  "weather_pr": 1016,
+  "weather_tp": 18,
+  "weather_wd": 270,
+  "weather_ws": 4.12,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaca"
+  },
+  "city": "Mulheim",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 71,
+  "weather_pr": 1016,
+  "weather_tp": 17,
+  "weather_wd": 270,
+  "weather_ws": 7.2,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfacb"
+  },
+  "city": "Munster",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "50d",
+  "weather_hu": 92,
+  "weather_pr": 1014,
+  "weather_tp": 16,
+  "weather_wd": 250,
+  "weather_ws": 6.69,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfacc"
+  },
+  "city": "Netphen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 78,
+  "weather_pr": 1014,
+  "weather_tp": 16,
+  "weather_wd": 271,
+  "weather_ws": 5.67,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 55,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 16,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfacd"
+  },
+  "city": "Nettetal",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 77,
+  "weather_pr": 1015,
+  "weather_tp": 18,
+  "weather_wd": 246,
+  "weather_ws": 4.02,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cface"
+  },
+  "city": "Niederzier",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 71,
+  "weather_pr": 1015,
+  "weather_tp": 19,
+  "weather_wd": 276,
+  "weather_ws": 6,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfacf"
+  },
+  "city": "Oberhausen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 79,
+  "weather_pr": 1016,
+  "weather_tp": 17,
+  "weather_wd": 264,
+  "weather_ws": 6.06,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfad0"
+  },
+  "city": "Ratingen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 70,
+  "weather_pr": 1015,
+  "weather_tp": 18,
+  "weather_wd": 270,
+  "weather_ws": 7.2,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfad1"
+  },
+  "city": "Recklinghausen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 83,
+  "weather_pr": 1015,
+  "weather_tp": 15,
+  "weather_wd": 270,
+  "weather_ws": 3.58,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 71,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfad2"
+  },
+  "city": "Schwerte",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 80,
+  "weather_pr": 1015,
+  "weather_tp": 15,
+  "weather_wd": 250,
+  "weather_ws": 4.63,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 28,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfad3"
+  },
+  "city": "Simmerath",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 77,
+  "weather_pr": 1016,
+  "weather_tp": 16,
+  "weather_wd": 290,
+  "weather_ws": 4.12,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfad4"
+  },
+  "city": "Soest",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 75,
+  "weather_pr": 1015,
+  "weather_tp": 17,
+  "weather_wd": 262,
+  "weather_ws": 5.88,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfad5"
+  },
+  "city": "Solingen",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 76,
+  "weather_pr": 1015,
+  "weather_tp": 18,
+  "weather_wd": 273,
+  "weather_ws": 4.33,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 56,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 20,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfad6"
+  },
+  "city": "Telgte",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 92,
+  "weather_pr": 1014,
+  "weather_tp": 16,
+  "weather_wd": 240,
+  "weather_ws": 6.69,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfad7"
+  },
+  "city": "Titz",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 76,
+  "weather_pr": 1015,
+  "weather_tp": 18,
+  "weather_wd": 278,
+  "weather_ws": 5.36,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfad8"
+  },
+  "city": "Unna",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 79,
+  "weather_pr": 1015,
+  "weather_tp": 16,
+  "weather_wd": 250,
+  "weather_ws": 4.63,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfad9"
+  },
+  "city": "Warstein",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 79,
+  "weather_pr": 1015,
+  "weather_tp": 15,
+  "weather_wd": 265,
+  "weather_ws": 5.52,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfada"
+  },
+  "city": "Wegberg",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 73,
+  "weather_pr": 1016,
+  "weather_tp": 18,
+  "weather_wd": 270,
+  "weather_ws": 4.12,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfadb"
+  },
+  "city": "Wesel",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 74,
+  "weather_pr": 1015,
+  "weather_tp": 17,
+  "weather_wd": 268,
+  "weather_ws": 7.25,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfadc"
+  },
+  "city": "Wuppertal",
+  "state": "Nordrhein-Westfalen",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 88,
+  "weather_pr": 1015,
+  "weather_tp": 16,
+  "weather_wd": 267,
+  "weather_ws": 4.39,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfadd"
+  },
+  "city": "Bad Kreuznach",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1015,
+  "weather_tp": 25,
+  "weather_wd": 265,
+  "weather_ws": 7.01,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 33,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfade"
+  },
+  "city": "Bingen am Rhein",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 45,
+  "weather_pr": 1015,
+  "weather_tp": 25,
+  "weather_wd": 265,
+  "weather_ws": 6.92,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 82,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 37,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfadf"
+  },
+  "city": "Diez",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 55,
+  "weather_pr": 1015,
+  "weather_tp": 23,
+  "weather_wd": 286,
+  "weather_ws": 5.29,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 94,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 46,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfae0"
+  },
+  "city": "Dunzweiler",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 49,
+  "weather_pr": 1016,
+  "weather_tp": 22,
+  "weather_wd": 180,
+  "weather_ws": 1.79,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfae1"
+  },
+  "city": "Gondenbrett",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 61,
+  "weather_pr": 1017,
+  "weather_tp": 17,
+  "weather_wd": 283,
+  "weather_ws": 6.53,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfae2"
+  },
+  "city": "Herdorf",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "02d",
+  "weather_hu": 65,
+  "weather_pr": 1014,
+  "weather_tp": 19,
+  "weather_wd": 270,
+  "weather_ws": 6.69,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 68,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfae3"
+  },
+  "city": "Kaiserslautern",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1016,
+  "weather_tp": 23,
+  "weather_wd": 259,
+  "weather_ws": 6.5,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfae4"
+  },
+  "city": "Kehrig",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 54,
+  "weather_pr": 1015,
+  "weather_tp": 21,
+  "weather_wd": 270,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 90,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 43,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfae5"
+  },
+  "city": "Koblenz",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 55,
+  "weather_pr": 1015,
+  "weather_tp": 21,
+  "weather_wd": 287,
+  "weather_ws": 5.24,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 72,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfae6"
+  },
+  "city": "Landau in der Pfalz",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 40,
+  "weather_pr": 1016,
+  "weather_tp": 25,
+  "weather_wd": 180,
+  "weather_ws": 2.68,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 75,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfae7"
+  },
+  "city": "Ludwigshafen am Rhein",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 40,
+  "weather_pr": 1016,
+  "weather_tp": 25,
+  "weather_wd": 230,
+  "weather_ws": 5.14,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 76,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfae8"
+  },
+  "city": "Mainz",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 41,
+  "weather_pr": 1015,
+  "weather_tp": 25,
+  "weather_wd": 250,
+  "weather_ws": 5.36,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfae9"
+  },
+  "city": "Mayen",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 58,
+  "weather_pr": 1015,
+  "weather_tp": 21,
+  "weather_wd": 282,
+  "weather_ws": 6.2,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 84,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 39,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaea"
+  },
+  "city": "Merzalben",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 40,
+  "weather_pr": 1016,
+  "weather_tp": 25,
+  "weather_wd": 262,
+  "weather_ws": 5.93,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaeb"
+  },
+  "city": "Montabaur",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 57,
+  "weather_pr": 1014,
+  "weather_tp": 21,
+  "weather_wd": 292,
+  "weather_ws": 5.51,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 86,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 40,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaec"
+  },
+  "city": "Neuwied",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 66,
+  "weather_pr": 1015,
+  "weather_tp": 21,
+  "weather_wd": 292,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 73,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaed"
+  },
+  "city": "Nieder-Olm",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 48,
+  "weather_pr": 1015,
+  "weather_tp": 25,
+  "weather_wd": 280,
+  "weather_ws": 4.63,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 67,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaee"
+  },
+  "city": "Pirmasens",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1017,
+  "weather_tp": 23,
+  "weather_wd": 262,
+  "weather_ws": 5.85,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 58,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaef"
+  },
+  "city": "Schifferstadt",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 36,
+  "weather_pr": 1015,
+  "weather_tp": 25,
+  "weather_wd": 230,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 75,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaf0"
+  },
+  "city": "Siesbach",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 52,
+  "weather_pr": 1015,
+  "weather_tp": 22,
+  "weather_wd": 100,
+  "weather_ws": 2.68,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaf1"
+  },
+  "city": "Speyer",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 34,
+  "weather_pr": 1016,
+  "weather_tp": 26,
+  "weather_wd": 230,
+  "weather_ws": 5.14,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 77,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 35,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaf2"
+  },
+  "city": "Trier",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1016,
+  "weather_tp": 23,
+  "weather_wd": 255,
+  "weather_ws": 6.2,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 77,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 33,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaf3"
+  },
+  "city": "Wissen",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 70,
+  "weather_pr": 1015,
+  "weather_tp": 18,
+  "weather_wd": 283,
+  "weather_ws": 6.55,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 84,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 39,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaf4"
+  },
+  "city": "Worms",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 43,
+  "weather_pr": 1015,
+  "weather_tp": 25,
+  "weather_wd": 260,
+  "weather_ws": 4.02,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 81,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 36,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaf5"
+  },
+  "city": "Worth am Rhein",
+  "state": "Rheinland-Pfalz",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 47,
+  "weather_pr": 1016,
+  "weather_tp": 25,
+  "weather_wd": 339,
+  "weather_ws": 1.34,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 37,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaf6"
+  },
+  "city": "Dillingen",
+  "state": "Saarland",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 56,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 280,
+  "weather_ws": 5.74,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 64,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaf7"
+  },
+  "city": "Lebach",
+  "state": "Saarland",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 57,
+  "weather_pr": 1016,
+  "weather_tp": 23,
+  "weather_wd": 273,
+  "weather_ws": 5.78,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 20,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaf8"
+  },
+  "city": "Ottweiler",
+  "state": "Saarland",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 48,
+  "weather_pr": 1016,
+  "weather_tp": 23,
+  "weather_wd": 296,
+  "weather_ws": 4.47,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 62,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaf9"
+  },
+  "city": "Rehlingen-Siersburg",
+  "state": "Saarland",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 66,
+  "weather_pr": 1017,
+  "weather_tp": 23,
+  "weather_wd": 277,
+  "weather_ws": 6.2,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 56,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 19,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfafa"
+  },
+  "city": "Saarbrucken",
+  "state": "Saarland",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 46,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 260,
+  "weather_ws": 7.2,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 60,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfafb"
+  },
+  "city": "Saarlouis",
+  "state": "Saarland",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 54,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 279,
+  "weather_ws": 5.37,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 55,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 18,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfafc"
+  },
+  "city": "Volklingen",
+  "state": "Saarland",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 49,
+  "weather_pr": 1017,
+  "weather_tp": 24,
+  "weather_wd": 260,
+  "weather_ws": 7.72,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 67,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 26,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfafd"
+  },
+  "city": "Annaberg-Buchholz",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 63,
+  "weather_pr": 1015,
+  "weather_tp": 17,
+  "weather_wd": 217,
+  "weather_ws": 2.68,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 53,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfafe"
+  },
+  "city": "Bautzen",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 60,
+  "weather_pr": 1014,
+  "weather_tp": 21,
+  "weather_wd": 254,
+  "weather_ws": 4.49,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 55,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 29,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfaff"
+  },
+  "city": "Cavertitz",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 62,
+  "weather_pr": 1013,
+  "weather_tp": 20,
+  "weather_wd": 240,
+  "weather_ws": 5.36,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 44,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 12,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb00"
+  },
+  "city": "Dresden",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 69,
+  "weather_pr": 1013,
+  "weather_tp": 21,
+  "weather_wd": 250,
+  "weather_ws": 5.36,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 79,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb01"
+  },
+  "city": "Eibenstock",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 77,
+  "weather_pr": 1012,
+  "weather_tp": 13,
+  "weather_wd": 233,
+  "weather_ws": 7.6,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 58,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 36,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb02"
+  },
+  "city": "Goerlitz",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 55,
+  "weather_pr": 1014,
+  "weather_tp": 21,
+  "weather_wd": 244,
+  "weather_ws": 1.79,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 58,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "n2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb03"
+  },
+  "city": "Klingenthal",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 77,
+  "weather_pr": 1014,
+  "weather_tp": 15,
+  "weather_wd": 249,
+  "weather_ws": 5.11,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 55,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 22,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb04"
+  },
+  "city": "Leipzig",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 58,
+  "weather_pr": 1012,
+  "weather_tp": 19,
+  "weather_wd": 220,
+  "weather_ws": 6.17,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 86,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 40,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb05"
+  },
+  "city": "Lohmen",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 68,
+  "weather_pr": 1014,
+  "weather_tp": 21,
+  "weather_wd": 279,
+  "weather_ws": 0.89,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb06"
+  },
+  "city": "Neudorf",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 62,
+  "weather_pr": 1014,
+  "weather_tp": 16,
+  "weather_wd": 240,
+  "weather_ws": 8.94,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 97,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 49,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb07"
+  },
+  "city": "Niesky",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 59,
+  "weather_pr": 1014,
+  "weather_tp": 22,
+  "weather_wd": 264,
+  "weather_ws": 4.4,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 53,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb08"
+  },
+  "city": "Olbernhau",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 59,
+  "weather_pr": 1014,
+  "weather_tp": 18,
+  "weather_wd": 258,
+  "weather_ws": 5.01,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 88,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 41,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb09"
+  },
+  "city": "Oschatz",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 62,
+  "weather_pr": 1013,
+  "weather_tp": 20,
+  "weather_wd": 250,
+  "weather_ws": 5.59,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 50,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 30,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb0a"
+  },
+  "city": "Plauen",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 60,
+  "weather_pr": 1013,
+  "weather_tp": 20,
+  "weather_wd": 230,
+  "weather_ws": 6.75,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 56,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 21,
+  "pollution_maincn": "p1"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb0b"
+  },
+  "city": "Riesa",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 62,
+  "weather_pr": 1013,
+  "weather_tp": 20,
+  "weather_wd": 240,
+  "weather_ws": 5.36,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 66,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb0c"
+  },
+  "city": "Schwartenberg",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 59,
+  "weather_pr": 1014,
+  "weather_tp": 17,
+  "weather_wd": 258,
+  "weather_ws": 4.96,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 53,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 34,
+  "pollution_maincn": "o3"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb0d"
+  },
+  "city": "Tannenbergsthal",
+  "state": "Saxony",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 77,
+  "weather_pr": 1013,
+  "weather_tp": 15,
+  "weather_wd": 242,
+  "weather_ws": 5.44,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 92,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 44,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb0e"
+  },
+  "city": "Stapelburg",
+  "state": "Saxony-Anhalt",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 86,
+  "weather_pr": 1013,
+  "weather_tp": 14,
+  "weather_wd": 259,
+  "weather_ws": 4.8,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 88,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 41,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb0f"
+  },
+  "city": "Belau",
+  "state": "Schleswig-Holstein",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 97,
+  "weather_pr": 1007,
+  "weather_tp": 13,
+  "weather_wd": 233,
+  "weather_ws": 6.56,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 76,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb10"
+  },
+  "city": "Brunsbüttel",
+  "state": "Schleswig-Holstein",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 86,
+  "weather_pr": 1008,
+  "weather_tp": 15,
+  "weather_wd": 266,
+  "weather_ws": 7.87,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 61,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 20,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb11"
+  },
+  "city": "Eggebek",
+  "state": "Schleswig-Holstein",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 78,
+  "weather_pr": 1006,
+  "weather_tp": 15,
+  "weather_wd": 260,
+  "weather_ws": 8.23,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 59,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 19,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb12"
+  },
+  "city": "Flensburg",
+  "state": "Schleswig-Holstein",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 95,
+  "weather_pr": 1006,
+  "weather_tp": 14,
+  "weather_wd": 254,
+  "weather_ws": 4.7,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 56,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 17,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb13"
+  },
+  "city": "Itzehoe",
+  "state": "Schleswig-Holstein",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 94,
+  "weather_pr": 1008,
+  "weather_tp": 14,
+  "weather_wd": 250,
+  "weather_ws": 6.54,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 74,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb14"
+  },
+  "city": "Kiel",
+  "state": "Schleswig-Holstein",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 94,
+  "weather_pr": 1007,
+  "weather_tp": 14,
+  "weather_wd": 220,
+  "weather_ws": 5.14,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 78,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 33,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb15"
+  },
+  "city": "Kollow",
+  "state": "Schleswig-Holstein",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 97,
+  "weather_pr": 1008,
+  "weather_tp": 14,
+  "weather_wd": 224,
+  "weather_ws": 1.34,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 69,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 27,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb16"
+  },
+  "city": "Lauenburg",
+  "state": "Schleswig-Holstein",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 97,
+  "weather_pr": 1009,
+  "weather_tp": 14,
+  "weather_wd": 249,
+  "weather_ws": 6.43,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 76,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 32,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb17"
+  },
+  "city": "Lubeck",
+  "state": "Schleswig-Holstein",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 93,
+  "weather_pr": 1008,
+  "weather_tp": 13,
+  "weather_wd": 210,
+  "weather_ws": 5.14,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 75,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 31,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb18"
+  },
+  "city": "Nortorf",
+  "state": "Schleswig-Holstein",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 96,
+  "weather_pr": 1007,
+  "weather_tp": 13,
+  "weather_wd": 249,
+  "weather_ws": 6.15,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 38,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 10,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb19"
+  },
+  "city": "Wittenborn",
+  "state": "Schleswig-Holstein",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "10d",
+  "weather_hu": 97,
+  "weather_pr": 1008,
+  "weather_tp": 13,
+  "weather_wd": 236,
+  "weather_ws": 6.75,
+  "pollution_ts": "2025-06-10T15:00:00.000Z",
+  "pollution_aqius": 67,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 25,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb1a"
+  },
+  "city": "Altenburg",
+  "state": "Thuringia",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "01d",
+  "weather_hu": 56,
+  "weather_pr": 1012,
+  "weather_tp": 21,
+  "weather_wd": 220,
+  "weather_ws": 5.66,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 65,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 24,
+  "pollution_maincn": "p2"
+},
+{
+  "_id": {
+    "$oid": "68487444557f4a50575cfb1b"
+  },
+  "city": "Eisenach",
+  "state": "Thuringia",
+  "country": "Germany",
+  "weather_ts": "2025-06-10T15:00:00.000Z",
+  "weather_ic": "04d",
+  "weather_hu": 51,
+  "weather_pr": 1013,
+  "weather_tp": 22,
+  "weather_wd": 263,
+  "weather_ws": 7.76,
+  "pollution_ts": "2025-06-10T14:00:00.000Z",
+  "pollution_aqius": 63,
+  "pollution_mainus": "p2",
+  "pollution_aqicn": 23,
+  "pollution_maincn": "p2"
+}]
