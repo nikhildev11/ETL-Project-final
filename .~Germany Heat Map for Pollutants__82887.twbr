@@ -1,0 +1,2218 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20251.25.0520.1026                               -->
+<workbook original-version='18.1' source-build='2025.1.2 (20251.25.0520.1026)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AccessibleZoneTabOrder />
+    <AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <_.fcp.IndividualControlFormatting.true...IndividualControlFormatting />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <MapboxVectorStylesAndLayers />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+    <ZoneBackgroundTransparency />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='air_quality.germany_city_air_quality_cleaned' inline='true' name='federated.13qdq201a1sd5k1f0hkhc0jik6i9' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='air_quality.germany_city_air_quality_cleaned' name='semistructpassivestore-direct.0rhq9871heajiq1anh5vv1ser533'>
+            <connection class='semistructpassivestore-direct' directory='/Users/nikhil/Documents/ETL PROJECT - GLOBAL AIR QUALITY /ETL-Project-final' filename='air_quality.germany_city_air_quality_cleaned.json' password='' server=''>
+              <semistruct-schemas>
+                <semistruct-schema table='[air_quality.germany_city_air_quality_cleaned.json]'>
+                  <map key='_id' value='false' />
+                  <map key='{root}' value='true' />
+                </semistruct-schema>
+              </semistruct-schemas>
+            </connection>
+          </named-connection>
+        </named-connections>
+        <relation connection='semistructpassivestore-direct.0rhq9871heajiq1anh5vv1ser533' name='air_quality.germany_city_air_quality_cleaned.json' table='[air_quality.germany_city_air_quality_cleaned.json]' type='table' />
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>Document Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Document Index (generated)]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>Document Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>city</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[city]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>city</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>country</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[country]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>country</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pollution_aqicn</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pollution_aqicn]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>pollution_aqicn</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pollution_aqius</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pollution_aqius]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>pollution_aqius</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pollution_maincn</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[pollution_maincn]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>pollution_maincn</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pollution_mainus</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[pollution_mainus]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>pollution_mainus</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pollution_ts</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[pollution_ts]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>pollution_ts</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>state</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[state]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>state</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>weather_hu</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[weather_hu]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>weather_hu</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>weather_ic</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[weather_ic]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>weather_ic</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>weather_pr</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[weather_pr]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>weather_pr</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>weather_tp</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[weather_tp]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>weather_tp</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>weather_ts</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[weather_ts]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>weather_ts</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>weather_wd</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[weather_wd]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>weather_wd</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>weather_ws</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[weather_ws]</local-name>
+            <parent-name>[air_quality.germany_city_air_quality_cleaned.json]</parent-name>
+            <remote-alias>weather_ws</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column aggregation='Sum' datatype='integer' name='[Document Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Document Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='air_quality.germany_city_air_quality_cleaned.json' datatype='table' name='[__tableau_internal_object_id__].[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]' role='measure' type='quantitative' />
+      <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>city</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>country</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Pollution Aqicn' datatype='real' name='[pollution_aqicn]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>pollution_aqicn</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Pollution Aqius' datatype='real' name='[pollution_aqius]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>pollution_aqius</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Pollution Maincn' datatype='string' name='[pollution_maincn]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>pollution_maincn</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Pollution Mainus' datatype='string' name='[pollution_mainus]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>pollution_mainus</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Pollution Ts' datatype='string' name='[pollution_ts]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>pollution_ts</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='State' datatype='string' name='[state]' role='dimension' semantic-role='[State].[Name]' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>state</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Weather Hu' datatype='real' name='[weather_hu]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>weather_hu</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Weather Ic' datatype='string' name='[weather_ic]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>weather_ic</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Weather Pr' datatype='real' name='[weather_pr]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>weather_pr</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Weather Tp' datatype='real' name='[weather_tp]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>weather_tp</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Weather Ts' datatype='string' name='[weather_ts]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>weather_ts</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Weather Wd' datatype='real' name='[weather_wd]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>weather_wd</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Weather Ws' datatype='real' name='[weather_ws]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>weather_ws</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
+      <column-instance column='[pollution_maincn]' derivation='None' name='[none:pollution_maincn:nk]' pivot='key' type='nominal' />
+      <folders-common>
+        <folder name='Air Quality.Germany City Air Quality Cleaned'>
+          <folder-item name='[Document Index (generated)]' type='field' />
+          <folder-item name='[city]' type='field' />
+          <folder-item name='[country]' type='field' />
+          <folder-item name='[pollution_maincn]' type='field' />
+          <folder-item name='[pollution_mainus]' type='field' />
+          <folder-item name='[pollution_ts]' type='field' />
+          <folder-item name='[state]' type='field' />
+          <folder-item name='[weather_ic]' type='field' />
+          <folder-item name='[weather_ts]' type='field' />
+        </folder>
+      </folders-common>
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='/var/folders/ky/9scsc6x10dlgg84f1fzcxdhc0000gn/T/tableau-temp/#TableauTemp_16t56xc0q0zycp0zu37b90ibzize.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='06/10/2025 07:02:22 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Document Index (generated)</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Document Index (generated)]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Document Index (generated)</remote-alias>
+              <ordinal>0</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>329</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>city</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[city]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>city</remote-alias>
+              <ordinal>1</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>328</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>country</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[country]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>country</remote-alias>
+              <ordinal>2</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pollution_aqicn</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pollution_aqicn]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pollution_aqicn</remote-alias>
+              <ordinal>3</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>58</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pollution_aqius</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pollution_aqius]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pollution_aqius</remote-alias>
+              <ordinal>4</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>68</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pollution_maincn</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[pollution_maincn]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pollution_maincn</remote-alias>
+              <ordinal>5</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pollution_mainus</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[pollution_mainus]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pollution_mainus</remote-alias>
+              <ordinal>6</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pollution_ts</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[pollution_ts]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pollution_ts</remote-alias>
+              <ordinal>7</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>state</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[state]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>state</remote-alias>
+              <ordinal>8</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>16</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>weather_hu</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[weather_hu]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>weather_hu</remote-alias>
+              <ordinal>9</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>66</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>weather_ic</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[weather_ic]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>weather_ic</remote-alias>
+              <ordinal>10</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>7</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>weather_pr</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[weather_pr]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>weather_pr</remote-alias>
+              <ordinal>11</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>15</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>weather_tp</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[weather_tp]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>weather_tp</remote-alias>
+              <ordinal>12</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>14</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>weather_ts</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[weather_ts]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>weather_ts</remote-alias>
+              <ordinal>13</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>weather_wd</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[weather_wd]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>weather_wd</remote-alias>
+              <ordinal>14</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>101</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>weather_ws</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[weather_ws]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>weather_ws</remote-alias>
+              <ordinal>15</ordinal>
+              <family>air_quality.germany_city_air_quality_cleaned.json</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>154</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='false' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:pollution_maincn:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;n2&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;p2&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;p1&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;o3&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:city:nk]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;Ansbach&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Bingen am Rhein&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Butzbach&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Eggenstein-Leopoldshafen&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Fulda&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Hannover&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Ismaning&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Landau in der Pfalz&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Lunenburg&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Mulheim&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Niedernhausen&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Oldenburg&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Riesa&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Seevetal&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Tannenbergsthal&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Wenzenbach&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Aachen&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Bayreuth&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Bremerhaven&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Dresden&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Filderstadt&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Gottingen&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Hildesheim&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Koblenz&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Lubeck&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Mettingen&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Neubrandenburg&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Oberried&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Plauen&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Schwabisch Hall&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Spremberg&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Volklingen&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Wolfsburg&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Alsfeld&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Berlin&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Buende&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Duisburg&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Frechen&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Gustrow&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Holzkirchen&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Konstanz&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Ludwigsburg&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Mitte&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Neukoelln&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Offenbach am Main&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Recklinghausen&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Schwedt/Oder&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Steingaden&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Wegberg&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Wurzburg&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Bad Belzig&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Bonn&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Dallgow-Doeberitz&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Eisenhuttenstadt&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Gelsenkirchen&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Heidelberg&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Karlsruhe&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Lauenburg&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Mannheim&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Mutlangen&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Niesky&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Osnabrueck&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Rottach-Egern&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Sindelfingen&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Titz&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Wiesloch&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Augsburg&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Birkenwerder&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Cavertitz&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Egmating&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Furth&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Harburg&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Itzehoe&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Landshut&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Mahlberg&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Munich&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Niederrad&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Oranienburg&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Rinteln&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Senden&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Tauberbischofsheim&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Wesel&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Alt Zauche-Wusswerk&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Bernau bei Berlin&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Bueren&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Dunzweiler&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Freiburg&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Hagen&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Holzwickede&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Krefeld&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Ludwigshafen am Rhein&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Mittelstetten&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Neuruppin&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Ofterdingen&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Rehlingen-Siersburg&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Schweinfurt&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Stralsund&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Weil am Rhein&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Zell am Main&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Bautzen&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Braunschweig&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Dingolfing&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Eppelheim&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Goldberg&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Herford&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Kiel&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Locknitz&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Memmingen&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Neu Wulmstorf&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Oberaudorf&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Pforzheim&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Schonstett&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Sontheim an der Brenz&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Unna&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Wittenborn&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Aalen&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Bebra&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Brunsbüttel&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Drolshagen&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Flensburg&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Graben-Neudorf&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Hof&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Kochel&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Luchow&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Michelstadt&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Neuburg an der Donau&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Oberrot&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Potsdam&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Schwabische Alb&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Stadtbergen&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Wangen im Allgau&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Worms&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Baden-Baden&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Bottrop&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Diez&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Emmering&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Goerlitz&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Herbolzheim&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Kellerwald&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Leverkusen&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Mayen&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Nettetal&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Nuremberg&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Passau&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Schifferstadt&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Solingen&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Uberlingen&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Wissen&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Altenburg&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Biberach&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Burg Stargard&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Dusseldorf&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Friedrichshafen&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Hamburg&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Hurth&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Kulmbach&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Luedenscheid&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Monchengladbach&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Neuwied&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Ohlsdorf&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Reutlingen&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Schwerin&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Stuttgart&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Weinheim&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Zierenberg&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Bad Hindelang&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Borken&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Darmstadt&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Elsterwerda&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Gersfeld&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Heilbronn&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Kassel&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Lebach&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Marburg&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Nauen&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Nordholz&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Ottobrunn&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Saarbrucken&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Singen&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Trier&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Wildau&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Bad Kreuznach&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Bornheim&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Datteln&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Eltville&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Giessen&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Hennef&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Kehl&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Leipzig&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Marburg an der Lahn&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Nennslingen&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Northeim&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Ottweiler&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Saarlouis&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Sittensen&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Trostberg&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Wilhelmshaven&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Bamberg&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Brandenburg City&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Dillingen&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Emsland&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Gohlen&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Herdorf&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Kempen&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Limburg an der Lahn&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Meerbusch&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Neu Isenburg&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Oberasbach&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Peissenberg&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Schonefeld&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Solling&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Ulm&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Wittenberge&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Bayenthal&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Bremen&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Dortmund&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Essen&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Gondenbrett&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Heroldsbach&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Klingenthal&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Lohmen&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Merzalben&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Neu-Ulm&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Oberhausen&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Pirmasens&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Schwabach&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Speyer&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Villingen-Schwenningen&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Witzenhausen&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Babstadt&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Blankenfelde-Mahlow&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Cottbus&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Eibenstock&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Gartringen&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Hattingen&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Jork&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Langen&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Mainleus&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Munster&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Niederwerrn&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Orsingen-Nenzingen&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Rosstal&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Siesbach&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Telgte&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Wetzlar&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Annaberg-Buchholz&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Bielefeld&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Burghausen&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Eggebek&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Fuhlsbuettel&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Hanau&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Ingolstadt&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Ladenburg&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Lunen&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Montabaur&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Nieder-Olm&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Olbernhau&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Riedstadt&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Schwerte&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Sulzbach-Rosenberg&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Weissenburg in Bayern&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Zingst&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Allertal&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Belau&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Buchholz in der Nordheide&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Duderstadt&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Frankfurt am Main&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Grenzach-Wyhlen&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Hohenkirchen-Siegertsbrunn&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Kollow&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Luckenwalde&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Michendorf&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Neudorf&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Oberursel&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Ratingen&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Schwangau&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Stapelburg&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Warstein&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Worth am Rhein&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Bad Nauheim&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Bosel&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Dauchingen&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Emden&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Glashutten&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Heppenheim (Bergstrasse)&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Kehrig&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Leizen&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Marienthal&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Netphen&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Nortorf&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Pasing&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Salzgitter&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Soest&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Tubingen&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Wismar&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Bad Aibling&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Bogenhausen&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Cuxhaven&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Eisenach&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Garz/Rugen&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Hausen&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Kaiserslautern&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Langgons&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Mainz&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Munstertal/Schwarzwald&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Niederzier&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Oschatz&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Rostock&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Simmerath&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Tiefenbach&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Wiesbaden&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Alling&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Bensheim&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Buckow&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Duesseldorf-Pempelfort&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Frankfurt/Oder&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Grunwald&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Holzgerlingen&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Koln&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Luder&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Midlum&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Neuenburg&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Offenbach&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Raunheim&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Schwartenberg&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Stechlin&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Wartenberg&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Wuppertal&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <date-options start-of-week='saturday' />
+      <object-graph>
+        <objects>
+          <object caption='air_quality.germany_city_air_quality_cleaned.json' id='air_quality.germany_city_air_quality_cleaned.json_5C4E1C7480574BEC9D27E775C25954A2'>
+            <properties context=''>
+              <relation connection='semistructpassivestore-direct.0rhq9871heajiq1anh5vv1ser533' name='air_quality.germany_city_air_quality_cleaned.json' table='[air_quality.germany_city_air_quality_cleaned.json]' type='table' />
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <actions>
+    <action caption='Highlight 1 (generated)' name='[Action1_6DBAB855B07746E2BFD7912356B557DE]'>
+      <activation auto-clear='true' type='on-select' />
+      <source type='sheet' worksheet='Heat Map of Pollutants' />
+      <command command='tsc:brush'>
+        <param name='field-captions' value='AVG(Pollution Aqius)' />
+        <param name='target' value='Heat Map of Pollutants' />
+      </command>
+    </action>
+    <action caption='Highlight 2 (generated)' name='[Action2_9471BBC9823F49E8B2B409D6C565C189]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='Final Dashboard' type='sheet' />
+      <command command='tsc:brush'>
+        <param name='field-captions' value='AVG(Pollution Aqius)' />
+        <param name='target' value='Final Dashboard' />
+      </command>
+    </action>
+  </actions>
+  <worksheets>
+    <worksheet name='Distribution of Main Pollutants'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#000000' fontname='BM Hanna 11yrs Old'>Distribution of Main Pollutants</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='air_quality.germany_city_air_quality_cleaned' name='federated.13qdq201a1sd5k1f0hkhc0jik6i9' />
+          </datasources>
+          <datasource-dependencies datasource='federated.13qdq201a1sd5k1f0hkhc0jik6i9'>
+            <column-instance column='[pollution_maincn]' derivation='None' name='[none:pollution_maincn:nk]' pivot='key' type='nominal' />
+            <column caption='Pollution Aqicn' datatype='real' name='[pollution_aqicn]' role='measure' type='quantitative'>
+              <desc>
+                <formatted-text>
+                  <run>pollution_aqicn</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column caption='Pollution Maincn' datatype='string' name='[pollution_maincn]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>pollution_maincn</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[pollution_aqicn]' derivation='Sum' name='[sum:pollution_aqicn:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <natural-sort column='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:pollution_maincn:nk]' direction='DESC' />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Pie' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:pollution_maincn:nk]' />
+              <wedge-size column='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[sum:pollution_aqicn:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='cell'>
+                <format attr='vertical-align' value='top' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='size' value='1.7251380681991577' />
+                <format attr='mark-labels-range-scope' value='multi-mark' />
+                <format attr='mark-labels-cull' value='false' />
+                <format attr='mark-labels-mode' value='selection' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{53F94B34-6208-4E73-83B1-D59720380DE2}' />
+    </worksheet>
+    <worksheet name='Heat Map of Pollutants'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontname='BM Hanna 11yrs Old'>Heat Map of Pollutants in German Cities</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='air_quality.germany_city_air_quality_cleaned' name='federated.13qdq201a1sd5k1f0hkhc0jik6i9' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.13qdq201a1sd5k1f0hkhc0jik6i9'>
+            <column-instance column='[pollution_aqius]' derivation='Avg' name='[avg:pollution_aqius:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[pollution_aqius]' derivation='Avg' name='[avg:pollution_aqius:qk]' pivot='key' type='quantitative' />
+            <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>city</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>country</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
+            <column-instance column='[country]' derivation='None' name='[none:country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[state]' derivation='None' name='[none:state:nk]' pivot='key' type='nominal' />
+            <column caption='Pollution Aqius' datatype='real' name='[pollution_aqius]' role='measure' type='quantitative'>
+              <desc>
+                <formatted-text>
+                  <run>pollution_aqius</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column caption='State' datatype='string' name='[state]' role='dimension' semantic-role='[State].[Name]' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>state</run>
+                </formatted-text>
+              </desc>
+            </column>
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:state:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Baden-Wuerttemberg&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Bavaria&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Berlin&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Brandenburg&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Bremen&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Hamburg&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Hessen&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Lower Saxony&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Mecklenburg-Vorpommern&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Nordrhein-Westfalen&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Rheinland-Pfalz&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Saarland&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Saxony&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Saxony-Anhalt&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Schleswig-Holstein&quot;' />
+              <groupfilter function='member' level='[none:state:nk]' member='&quot;Thuringia&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:state:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[Longitude (generated)]' field-type='quantitative' max='2055669.4021949037' min='103206.04940616037' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[Latitude (generated)]' field-type='quantitative' max='6910041.3848501425' min='5930598.4322966728' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[avg:pollution_aqius:qk]' palette='red_green_diverging_10_0' reverse='true' type='interpolated' />
+          </style-rule>
+          <_.fcp.IndividualControlFormatting.true...style-rule element='legend'>
+            <_.fcp.IndividualControlFormatting.true...format attr='background-color' field='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[avg:pollution_aqius:ok]' id='legend-size' value='#f5f0ef' />
+          </_.fcp.IndividualControlFormatting.true...style-rule>
+          <_.fcp.IndividualControlFormatting.true...style-rule element='legend-title'>
+            <_.fcp.IndividualControlFormatting.true...format attr='text-align' field='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[avg:pollution_aqius:ok]' id='legend-size' value='center' />
+          </_.fcp.IndividualControlFormatting.true...style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[avg:pollution_aqius:qk]' />
+              <size column='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[avg:pollution_aqius:ok]' />
+              <lod column='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:city:nk]' />
+              <lod column='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:state:nk]' />
+              <lod column='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:country:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='1.3733149766921997' />
+                <format attr='mark-transparency' value='126' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[Latitude (generated)]</rows>
+        <cols>[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[Longitude (generated)]</cols>
+      </table>
+      <simple-id uuid='{67B905DD-F3AD-4A72-9AC0-CB63813F7351}' />
+    </worksheet>
+    <worksheet name='Time Series – AQI Over Time'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#000000' fontname='BM Hanna 11yrs Old'>Time Series – AQI Over Time</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='air_quality.germany_city_air_quality_cleaned' name='federated.13qdq201a1sd5k1f0hkhc0jik6i9' />
+          </datasources>
+          <datasource-dependencies datasource='federated.13qdq201a1sd5k1f0hkhc0jik6i9'>
+            <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>city</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
+            <column-instance column='[pollution_ts]' derivation='None' name='[none:pollution_ts:nk]' pivot='key' type='nominal' />
+            <column caption='Pollution Aqius' datatype='real' name='[pollution_aqius]' role='measure' type='quantitative'>
+              <desc>
+                <formatted-text>
+                  <run>pollution_aqius</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column caption='Pollution Ts' datatype='string' name='[pollution_ts]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>pollution_ts</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[pollution_aqius]' derivation='Sum' name='[sum:pollution_aqius:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:city:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[sum:pollution_aqius:qk]</rows>
+        <cols>[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:pollution_ts:nk]</cols>
+      </table>
+      <simple-id uuid='{D0F5E065-2147-4528-9E91-7B7E2F08295C}' />
+    </worksheet>
+    <worksheet name='Top 10 German Cities with Worst AQI'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#000000' fontname='BM Hanna 11yrs Old'>Top 10 German Cities with Worst AQI</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='air_quality.germany_city_air_quality_cleaned' name='federated.13qdq201a1sd5k1f0hkhc0jik6i9' />
+          </datasources>
+          <datasource-dependencies datasource='federated.13qdq201a1sd5k1f0hkhc0jik6i9'>
+            <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>city</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
+            <column caption='Pollution Aqicn' datatype='real' name='[pollution_aqicn]' role='measure' type='quantitative'>
+              <desc>
+                <formatted-text>
+                  <run>pollution_aqicn</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[pollution_aqicn]' derivation='Sum' name='[sum:pollution_aqicn:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:city:nk]'>
+            <groupfilter count='10' end='top' function='end' units='records' user:ui-marker='end' user:ui-top-by-field='true'>
+              <groupfilter direction='DESC' expression='SUM([pollution_aqicn])' function='order' user:ui-marker='order'>
+                <groupfilter function='level-members' level='[none:city:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:city:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[sum:pollution_aqicn:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:city:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-mode' value='range' />
+                <format attr='mark-labels-range-scope' value='pane' />
+                <format attr='size' value='1' />
+                <format attr='mark-color' value='#f96471' />
+                <format attr='mark-transparency' value='255' />
+                <format attr='has-stroke' value='true' />
+                <format attr='stroke-color' value='#606b76' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:city:nk]</rows>
+        <cols>[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[sum:pollution_aqicn:qk]</cols>
+      </table>
+      <simple-id uuid='{D022CBB9-BC37-4CEE-B5FC-9F727A533A35}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder='true' name='Final Dashboard'>
+      <style />
+      <size sizing-mode='automatic' />
+      <datasources>
+        <datasource caption='air_quality.germany_city_air_quality_cleaned' name='federated.13qdq201a1sd5k1f0hkhc0jik6i9' />
+      </datasources>
+      <datasource-dependencies datasource='federated.13qdq201a1sd5k1f0hkhc0jik6i9'>
+        <column-instance column='[state]' derivation='None' name='[none:state:nk]' pivot='key' type='nominal' />
+        <column caption='State' datatype='string' name='[state]' role='dimension' semantic-role='[State].[Name]' type='nominal'>
+          <desc>
+            <formatted-text>
+              <run>state</run>
+            </formatted-text>
+          </desc>
+        </column>
+      </datasource-dependencies>
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98048' id='7' param='horz' type-v2='layout-flow' w='98266' x='867' y='976'>
+            <zone h='98048' id='5' type-v2='layout-basic' w='86890' x='867' y='976'>
+              <zone h='35122' id='3' name='Heat Map of Pollutants' w='86890' x='867' y='976'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='30487' id='11' name='Top 10 German Cities with Worst AQI' w='86890' x='867' y='36098'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='32439' id='12' name='Distribution of Main Pollutants' w='29013' x='58744' y='66585'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='32439' id='14' name='Time Series – AQI Over Time' w='57877' x='867' y='66585'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+            <zone fixed-size='105' h='98048' id='6' is-fixed='true' param='vert' type-v2='layout-flow' w='11376' x='87757' y='976'>
+              <zone h='25731' id='8' name='Heat Map of Pollutants' param='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:state:nk]' type-v2='filter' w='11376' x='87757' y='976'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='25731' id='9' name='Heat Map of Pollutants' pane-specification-id='1' param='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[avg:pollution_aqius:ok]' type-v2='size' w='11376' x='87757' y='26707'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='7927' id='10' name='Heat Map of Pollutants' pane-specification-id='1' param='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[avg:pollution_aqius:qk]' type-v2='color' w='11376' x='87757' y='52438'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='12927' id='13' name='Distribution of Main Pollutants' pane-specification-id='0' param='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:pollution_maincn:nk]' type-v2='color' w='11376' x='87757' y='60365'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='25732' id='15' name='Time Series – AQI Over Time' pane-specification-id='0' param='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:city:nk]' type-v2='color' w='11376' x='87757' y='73292'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='1' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000' />
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{C6E94ECE-3E69-43F0-91B0-BA6E75922C16}' />
+    </dashboard>
+  </dashboards>
+  <windows show-side-pane='false' source-height='30'>
+    <window class='worksheet' name='Heat Map of Pollutants'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:state:nk]' type='filter' />
+            <card pane-specification-id='1' param='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[avg:pollution_aqius:ok]' type='size' />
+            <card pane-specification-id='1' param='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[avg:pollution_aqius:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{C895FBC2-E20D-4F7B-BC3F-7ADAAB1B14CB}' />
+    </window>
+    <window class='worksheet' name='Top 10 German Cities with Worst AQI'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{2DC31861-6AC3-4336-9F72-F593CB2483AD}' />
+    </window>
+    <window class='worksheet' name='Distribution of Main Pollutants'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:pollution_maincn:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{BB547AC3-F83B-4046-8D1B-F6405E380A1D}' />
+    </window>
+    <window class='worksheet' name='Time Series – AQI Over Time'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.13qdq201a1sd5k1f0hkhc0jik6i9].[none:city:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{8D032954-D773-4011-A3E2-1098BFD73F4B}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Final Dashboard'>
+      <viewpoints>
+        <viewpoint name='Distribution of Main Pollutants' />
+        <viewpoint name='Heat Map of Pollutants'>
+          <zoom type='entire-view' />
+          <default-map-tool-selection tool='1' />
+        </viewpoint>
+        <viewpoint name='Time Series – AQI Over Time'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Top 10 German Cities with Worst AQI' />
+      </viewpoints>
+      <active id='11' />
+      <simple-id uuid='{F65BF85E-7B9B-4901-A865-CC02CEA6D839}' />
+    </window>
+  </windows>
+</workbook>
