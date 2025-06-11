@@ -32,7 +32,7 @@ BASE_URL=https://api.airvisual.com MONGO_URI=mongodb://localhost:27017/ MONGO_DB
 4. **Run the ETL process:** Open global_air_quality.ipynb in Jupyter Notebook and execute the cells
 
 ## Data Flow
-Input: Data is fetched from the IQAir API.
+**Input:** Data is fetched from the IQAir API.
 
 **Processing:**
 Normalize nested fields for weather and pollution data.
