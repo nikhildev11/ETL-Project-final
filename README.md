@@ -1,6 +1,6 @@
 # 🌍 Germany's Air Quality Tracker
 
-This project uses the IQAir API to fetch real-time air quality data from global cities, stores the data in MongoDB, and prepares it for visualization in Power BI or Tableau.
+This project uses the IQAir API to fetch real-time air quality data from german cities, stores the data in MongoDB, and prepares it for visualization in Tableau.
 
 ## Features
 
@@ -14,7 +14,7 @@ This project uses the IQAir API to fetch real-time air quality data from global 
 1. **Extract**: Fetch air quality data from the IQAir API.
 2. **Transform**: Normalize and clean the data.
 3. **Load**: Store the data in MongoDB.
-4. **Visualize**: Use Power BI or Tableau for data visualization.
+4. **Visualize**: Use of Tableau for data visualization.
 
 ## Setup Instructions
 
@@ -45,7 +45,7 @@ Cleaned data is stored in the germany_city_air_quality_cleaned collection.
 
 ## Visualization
 Use of the Germany Heat Map for Pollutants.twb Tableau workbook to visualize air quality data.
-Alternatively, export the cleaned data to CSV for use in Power BI.
+Export of the cleaned data to json file for use in Tableau
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
