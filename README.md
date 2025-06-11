@@ -45,9 +45,8 @@ Cleaned data is stored in the germany_city_air_quality_cleaned collection.
 
 ## Visualization
 Use of the Germany Heat Map for Pollutants.twb Tableau workbook to visualize air quality data.
-Export of the cleaned data to json file for use in Tableau
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Export of the cleaned data to json file for use in Tableau.
+
 
 ![Screenshot 2025-06-11 at 2 36 15 AM](https://github.com/user-attachments/assets/2058747d-c322-4585-849c-a2507cfbd5e2)
 
