@@ -67,9 +67,9 @@ This ensures that:
 - You always work with near real-time AQI and weather data.
 - Failures are traceable through logs without manual intervention.
 
-## 📊 Visualization
-Use of the Germany Heat Map for Pollutants.twb Tableau workbook to visualize air quality data.
-Export of the cleaned data to json file for use in Tableau.
+##📊 Visualization
+
+The dashboard created in Tableau presents a heat map of pollutants across Germany, highlighting regions with high AQI levels. A regression chart shows how temperature impacts AQI differently based on the main pollutant type (e.g., AQI rises with temperature for PM2.5 but falls for Ozone). A bubble chart explores the relationship between humidity and AQI, while a pie chart displays the distribution of dominant pollutants. The data was prepared from cleaned MongoDB collections.
 
 
 ![image](https://github.com/user-attachments/assets/334ef4bb-5e38-4be2-9194-ece1e860c16a)
