@@ -2,21 +2,21 @@
 
 This project uses the IQAir API to fetch real-time air quality data from german cities, stores the data in MongoDB, and prepares it for visualization in Tableau.
 
-## Features
+## 🚀 Features
 
 - **Data Extraction**: Fetch air quality data for cities in Germany using the IQAir API.
 - **Data Transformation**: Normalize and clean the data for analysis.
 - **Data Storage**: Store raw and cleaned data in MongoDB collections.
 - **Visualization**: Prepare data for visualization in tools like Power BI or Tableau.
 
-## ETL Flow
+## 🔄 ETL Flow
 
 1. **Extract**: Fetch air quality data from the IQAir API.
 2. **Transform**: Normalize and clean the data.
 3. **Load**: Store the data in MongoDB.
 4. **Visualize**: Use of Tableau for data visualization.
 
-## Setup Instructions
+## ⚙️ Setup Instructions
 
 1. **Clone the repository:**
    ```bash
@@ -31,7 +31,7 @@ BASE_URL=https://api.airvisual.com MONGO_URI=mongodb://localhost:27017/ MONGO_DB
 
 4. **Run the ETL process:** Open global_air_quality.ipynb in Jupyter Notebook and execute the cells
 
-## Data Flow
+## 🔁 Data Flow
 **Input:** Data is fetched from the IQAir API.
 
 **Processing:**
@@ -43,7 +43,7 @@ Raw data is stored in the germany_city_air_quality collection.
 Cleaned data is stored in the germany_city_air_quality_cleaned collection.
 
 
-## Visualization
+## 📊 Visualization
 Use of the Germany Heat Map for Pollutants.twb Tableau workbook to visualize air quality data.
 Export of the cleaned data to json file for use in Tableau.
 
