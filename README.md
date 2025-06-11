@@ -44,10 +44,13 @@ Cleaned data is stored in the germany_city_air_quality_cleaned collection.
 
 
 ## Visualization
-Use the Germany Heat Map for Pollutants.twb Tableau workbook to visualize air quality data.
+Use of the Germany Heat Map for Pollutants.twb Tableau workbook to visualize air quality data.
 Alternatively, export the cleaned data to CSV for use in Power BI.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+![Screenshot 2025-06-11 at 2 36 15 AM](https://github.com/user-attachments/assets/2058747d-c322-4585-849c-a2507cfbd5e2)
+
 
 ## Acknowledgments
 IQAir API for providing air quality data.
