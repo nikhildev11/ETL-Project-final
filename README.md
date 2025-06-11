@@ -72,7 +72,7 @@ Use of the Germany Heat Map for Pollutants.twb Tableau workbook to visualize air
 Export of the cleaned data to json file for use in Tableau.
 
 
-![Screenshot 2025-06-11 at 2 36 15 AM](https://github.com/user-attachments/assets/d94dca03-feef-49d5-a993-be180f1925f7)
+![image](https://github.com/user-attachments/assets/334ef4bb-5e38-4be2-9194-ece1e860c16a)
 
 
 ## Acknowledgments
